@@ -1,0 +1,9 @@
+
+Circuit Break
+
+A game that somehow relates to circuits.
+
+Right now the underlying game engine is built into the same project. I could be
+separated at some point.
+
+To build:
